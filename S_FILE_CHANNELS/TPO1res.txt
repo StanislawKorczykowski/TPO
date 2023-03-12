@@ -1,0 +1,6 @@
+dupa z trupa
+ja cie krece 2137
+
+===================
+Yes, you will need to convert the file from cp1250 
+encoding to utf-8 encoding before copying the content to a file saved in utf-8.file:/D:/studia/TPO/TPO1_KS_S24645/TPO1res.txt
